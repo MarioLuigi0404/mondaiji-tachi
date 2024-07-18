@@ -17,10 +17,10 @@ Video File: Mondaiji-tachi 01 (Premux) (fixed).mkv
 Keyframes File: Mondaiji-tachi 01 (Premux) (fixed)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 354
-Active Line: 378
-Video Position: 34044
+Video Zoom Percent: 0.250000
+Scroll Position: 367
+Active Line: 371
+Video Position: 31389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,13 +33,13 @@ Dialogue: 5,0:00:07.15,0:00:09.86,Default,Izayoi,0,0,0,,There's gotta be {\i1}so
 Dialogue: 5,0:00:10.28,0:00:12.90,Default,Izayoi,0,0,0,,I'm bored. Really bored.
 Dialogue: 5,0:00:12.90,0:00:15.78,Default,Izayoi,0,0,0,,If I could sell my boredom, \NI'm pretty sure I could make a living.
 Dialogue: 5,0:00:15.78,0:00:18.08,Default,B,0,0,0,,C'mon, say something!
-Dialogue: 5,0:00:18.08,0:00:20.29,Default,A,0,0,0,,This dude's seriously crying.
+Dialogue: 5,0:00:18.08,0:00:20.29,Default,A,0,0,0,,This dude's really crying.
 Dialogue: 5,0:00:20.83,0:00:23.79,Default,A,0,0,0,,Gross. Maybe a dip in the river'll wash him off.
 Dialogue: 5,0:00:23.79,0:00:26.58,Default,B,0,0,0,,Let's throw him in naked,
 Dialogue: 5,0:00:26.58,0:00:28.84,Default,,0,0,0,,with his hands and feet tied up!
 Dialogue: 5,0:00:30.46,0:00:33.34,Default,C,0,0,0,,Look at him. He's practically pissed his pants!
 Dialogue: 5,0:00:33.34,0:00:36.34,Default,B,0,0,0,,What a little bitch. I can't believe it.
-Dialogue: 5,0:00:36.68,0:00:39.51,Default,C,0,0,0,#,C'mon. Get naked and jump in the river.
+Dialogue: 5,0:00:36.68,0:00:39.51,Default,C,0,0,0,##,C'mon. Get naked and jump in the river. {Consider FFF?}
 Dialogue: 5,0:00:39.51,0:00:41.77,Default,D,0,0,0,,I still think we should tie his hands up.
 Dialogue: 5,0:00:41.77,0:00:44.35,Default,D,0,0,0,,He won't die if he's got his legs.
 Dialogue: 5,0:00:41.77,0:00:44.69,Default,Guy,0,0,0,,{\an8}S-Somebody... Anybody...
@@ -75,13 +75,13 @@ Dialogue: 5,0:02:20.37,0:02:20.41,Default,,0,0,0,,{\clip(m 773 1058 b 798 995 79
 Dialogue: 5,0:02:20.41,0:02:20.45,Default,,0,0,0,,{\clip(m 773 1058 b 798 995 797 770 1094 552 l 231 642 162 1044)}but instead of a murder, they've left me a letter. \NHow interesting.
 Dialogue: 5,0:02:35.46,0:02:36.96,Default,You,0,0,0,,This came from the sky?
 Dialogue: 5,0:03:26.47,0:03:27.97,Default,Asuka,0,0,0,,Th-This is unbelievable.
-Dialogue: 5,0:03:28.39,0:03:30.18,Default,,0,0,0,##,They just tossed us into the sky without any warning.
+Dialogue: 5,0:03:28.39,0:03:30.18,Default,,0,0,0,##,They just tossed us into the sky without any warning. {CPS}
 Dialogue: 5,0:03:30.56,0:03:33.19,Default,Asuka,0,0,0,,We're lucky we didn't crash \Ninto the ground and break our necks.
-Dialogue: 5,0:03:33.44,0:03:35.06,Default,Izayoi,0,0,0,#,Yeah, seriously. {for real?}
+Dialogue: 5,0:03:33.44,0:03:35.06,Default,Izayoi,0,0,0,#,Yeah, for real. {OG: Yeah, seriously.}
 Dialogue: 5,0:03:35.48,0:03:38.19,Default,Izayoi,0,0,0,##,We were this close to it being game over. {We were this close to game over.}{We were this close to being game overed. or something}
 Dialogue: 5,0:03:40.03,0:03:42.24,Default,Izayoi,0,0,0,,So, who are you guys?
 Dialogue: 5,0:03:42.82,0:03:44.70,Default,Asuka,0,0,0,,I'd like to ask you the same,
-Dialogue: 5,0:03:44.70,0:03:46.87,Default,,0,0,0,###,Mr. Mean-Looking Student. {This sucks. FFF is worse.} {Mr. Wannabe Delinquent could be smoother but >accuracy. Depends how sarcastic I wanna make her. Maybe "scary face" or something but idk what to do about the student part?}
+Dialogue: 5,0:03:44.70,0:03:46.87,Default,,0,0,0,###,Mr. Highschool Edgelord. {This sucks. FFF is worse.} {Mr. Wannabe Delinquent could be smoother but >accuracy. Depends how sarcastic I wanna make her. Maybe "scary face" or something but idk what to do about the student part?} {Edgelord perhaps? I like "highschool edgelord".}
 Dialogue: 5,0:03:46.87,0:03:48.87,Default,Izayoi,0,0,0,,Just to make sure,
 Dialogue: 5,0:03:48.87,0:03:51.71,Default,,0,0,0,,you guys got that weird letter too?
 Dialogue: 5,0:03:51.71,0:03:55.96,Default,Asuka,0,0,0,##,Yes, but please refrain \Nfrom addressing me in that manner. {This is probably the best way to handle this but consider other options jic.}
@@ -98,7 +98,7 @@ Dialogue: 5,0:04:25.11,0:04:27.99,Default,,0,0,0,,I'd recommend reading all \Nth
 Dialogue: 5,0:04:27.99,0:04:31.49,Default,,0,0,0,,so that you'll understand how best \Nto conduct yourself around me, {\i1}Milady{\i0}.
 Dialogue: 5,0:04:32.08,0:04:35.50,Default,Asuka,0,0,0,,I'll think about it if you properly \Ndocument all those warning labels.
 Dialogue: 5,0:04:35.87,0:04:37.29,Default,Izayoi,0,0,0,,Seriously?
-Dialogue: 5,0:04:37.29,0:04:39.46,Default,,0,0,0,,I'll write something up a bit later, \Nso you better be ready.
+Dialogue: 5,0:04:37.29,0:04:39.46,Default,,0,0,0,,I'll write something up later, \Nso you better be ready.
 Dialogue: 5,0:04:39.46,0:04:44.22,Default,Black Rabbit,0,0,0,,{\i1}Oh my, these three all have \Nthe most outrageous personalities.
 Dialogue: 5,0:04:44.22,0:04:46.18,Default,Black Rabbit,0,0,0,,{\i1}But that's exactly why they're...
 Dialogue: 5,0:04:46.18,0:04:49.05,Default,Izayoi,0,0,0,,Okay, so someone brought us here,
@@ -110,11 +110,11 @@ Dialogue: 5,0:04:56.64,0:04:59.40,Default,Izayoi,0,0,0,,How about we ask the per
 Dialogue: 5,0:05:00.40,0:05:02.57,Default,Asuka,0,0,0,,Oh, you noticed her too?
 Dialogue: 5,0:05:03.40,0:05:06.24,Default,Izayoi,0,0,0,,Of course. I never lose at hide and seek.
 Dialogue: 5,0:05:07.03,0:05:09.32,Default,Izayoi,0,0,0,,You noticed too, right?
-Dialogue: 5,0:05:09.70,0:05:12.20,Default,You,0,0,0,###,From downwind, I can tell they're there, \Neven if I don't want to. {"We're downwind, I couldn't have missed them if I tried" would have too much attitude, but its more natural. Work from there.}
-Dialogue: 5,0:05:13.24,0:05:14.16,Default,Izayoi,0,0,0,,You're pretty interesting.
+Dialogue: 5,0:05:09.70,0:05:12.20,Default,You,0,0,0,,We're downwind. It'd be impossible to miss them.
+Dialogue: 5,0:05:13.24,0:05:14.16,Default,Izayoi,0,0,0,##,You're quite the character. {CPS}
 Dialogue: 5,0:05:15.37,0:05:18.67,Default,BR,0,0,0,,{\i1}I totally missed my chance to make an entrance.
 Dialogue: 5,0:05:18.67,0:05:21.00,Default,Izayoi,0,0,0,##,Hey, you know we know you're there, right? {Probably okay but a little hard to parse maybe.}
-Dialogue: 5,0:05:21.00,0:05:22.34,Default,Izayoi,0,0,0,,Just come out already.
+Dialogue: 5,0:05:21.00,0:05:22.34,Default,Izayoi,0,0,0,,Just get out here already.
 Dialogue: 5,0:05:22.75,0:05:24.71,Default,BR,0,0,0,,{\i1}G-Guess I have no choice.
 Dialogue: 5,0:05:25.46,0:05:28.88,Default,BR,0,0,0,,Oh my, please don't glare at me like th—
 Dialogue: 5,0:05:28.88,0:05:31.51,Default,Izayoi,0,0,0,,If you're not gonna come out on your own, fine.
@@ -152,7 +152,7 @@ Dialogue: 5,0:07:26.33,0:07:30.34,Default,,0,0,0,,by various war gods, demons, s
 Dialogue: 5,0:07:30.34,0:07:32.89,Default,BR,0,0,0,,In other words, blessings.
 Dialogue: 5,0:07:32.89,0:07:36.05,Default,BR,0,0,0,,The Gift Games are competitive contests \Nthat make use of those blessings
 Dialogue: 5,0:07:36.05,0:07:39.18,Default,,0,0,0,,and even allow you to place wagers with them.
-Dialogue: 5,0:07:39.18,0:07:44.35,Default,BR,0,0,0,###,The Little Garden is one big stage \Nthat was created for this purpose. {Not really a fan of "the" before LG. Decide on this eventually.}
+Dialogue: 5,0:07:39.18,0:07:44.35,Default,BR,0,0,0,###,The Little Garden is one big stage, \Ncreated specifically for this purpose. {Do I remove "the"?}
 Dialogue: 5,0:07:45.31,0:07:48.31,Default,Asuka,0,0,0,,Do we have to wager our own abilities to play?
 Dialogue: 5,0:07:48.57,0:07:50.19,Default,BR,0,0,0,,Not necessarily.
 Dialogue: 5,0:07:50.73,0:07:52.32,Default,BR,0,0,0,,There are various other chips you may wager.
@@ -204,7 +204,7 @@ Dialogue: 5,0:10:13.21,0:10:15.54,Default,Asuka,0,0,0,,Can we use any method we 
 Dialogue: 5,0:10:15.54,0:10:17.17,Default,BR,0,0,0,,As long as it doesn't conflict with the rules.
 Dialogue: 5,0:10:17.42,0:10:21.59,Default,BR,0,0,0,,By the way, I happen to have \Nthe ability of "Judge Master."
 Dialogue: 5,0:10:21.59,0:10:23.31,Default,,0,0,0,,You can't break the rules when I'm around.
-Dialogue: 5,0:10:23.76,0:10:27.69,Default,BR,0,0,0,,My eyes and ears are connected \Nto the Little Garden's central network.
+Dialogue: 5,0:10:23.76,0:10:27.69,Default,BR,0,0,0,###,My eyes and ears are connected \Nto the Little Garden's central network. {Not sure what to do with the network... should I call it "Little Garden Central Network" as a full title or what?}
 Dialogue: 5,0:10:27.69,0:10:31.06,Default,Izayoi,0,0,0,,What are the chips? Are we wagering our Gifts?
 Dialogue: 5,0:10:31.35,0:10:34.19,Default,BR,0,0,0,,You've all just arrived at the Little Garden,
 Dialogue: 5,0:10:34.19,0:10:36.06,Default,,0,0,0,,so we'll play without chips this time.
@@ -248,7 +248,7 @@ Dialogue: 5,0:12:34.82,0:12:37.40,Default,BR,0,0,0,,Y-You aren't, but...
 Dialogue: 5,0:12:39.78,0:12:44.83,Default,BR,0,0,0,,The Little Garden's central net \Nhas determined that your method was valid.
 Dialogue: 5,0:12:44.83,0:12:47.54,Default,BR,0,0,0,,{*}Miss Asuka{*Asuka-san} and {*}Miss You{*You-san} have met the victory conditions.
 Dialogue: 5,0:12:47.54,0:12:48.37,Default,Asuka,0,0,0,,We did it.
-Dialogue: 5,0:12:48.62,0:12:51.29,Default,BR,0,0,0,#,B-But, you haven't won yet, {*}Mr. Izayoi{*Izayoi-san}! {Not sure about eng hono here, and I guess a couple lines back too? Idk, I need to think it over}
+Dialogue: 5,0:12:48.62,0:12:51.29,Default,BR,0,0,0,##,B-But, you haven't won yet, {*}Mr. Izayoi{*Izayoi-san}! {Not sure about eng hono here, and I guess a couple lines back too? Idk, I need to think it over}
 Dialogue: 5,0:12:51.29,0:12:54.55,Default,Izayoi,0,0,0,,Hey, just who do you think I am?
 Dialogue: 5,0:12:55.54,0:12:57.30,Default,BR,0,0,0,,H-How did you...
 Dialogue: 5,0:12:57.30,0:12:58.30,Default,Izayoi,0,0,0,,I memorized them.
@@ -262,7 +262,7 @@ Dialogue: 5,0:13:18.28,0:13:19.78,Default,Izayoi,0,0,0,,Hey, Black Rabbit.
 Dialogue: 5,0:13:19.78,0:13:20.78,Default,BR,0,0,0,,Y-Yes?
 Dialogue: 5,0:13:21.11,0:13:23.78,Default,Izayoi,0,0,0,,How about you do something \Nfor me right here and now?
 Dialogue: 5,0:13:24.70,0:13:27.50,Default,BR,0,0,0,,I-I said nothing sexual!
-Dialogue: 5,0:13:27.50,0:13:30.46,Default,Izayoi,0,0,0,#,Well, that does sound fun in its own right, {probs okay tbh}{"that does certainly sound fun"}
+Dialogue: 5,0:13:27.50,0:13:30.46,Default,Izayoi,0,0,0,,Well, that does certainly sound fun,
 Dialogue: 5,0:13:30.46,0:13:32.96,Default,,0,0,0,,but I just want to ask you a question.
 Dialogue: 5,0:13:32.96,0:13:34.50,Default,BR,0,0,0,,Wh-What is it?
 Dialogue: 5,0:13:37.88,0:13:39.63,Default,Izayoi,0,0,0,,This world of yours...
@@ -295,31 +295,31 @@ Dialogue: 5,0:14:57.04,0:14:57.70,Default,Asuka/You,350,0,0,,{\an1}Yeah.
 Dialogue: 5,0:15:00.09,0:15:03.05,Default,Jin,0,0,0,,B-Black Rabbit, the edge of the world is...
 Dialogue: 5,0:15:03.05,0:15:04.67,Default,BR,0,0,0,,I know.
 Dialogue: 5,0:15:04.67,0:15:08.80,Default,BR,0,0,0,,Master Jin, please lead them the rest of the way.
-Dialogue: 5,0:15:09.10,0:15:13.09,Default,BR,0,0,0,,{\i1}I{\i0} will capture our problem child!
+Dialogue: 5,0:15:09.10,0:15:13.09,Default,BR,0,0,0,##,{\i1}I{\i0} will capture our problem child!
 Dialogue: 5,0:15:15.01,0:15:19.15,Default,BR,0,0,0,,You've insulted me, an aristocrat of the Little Garden!
 Dialogue: 5,0:15:19.15,0:15:22.23,Default,BR,0,0,0,,I'll make you wish you were never born!
-Dialogue: 5,0:15:27.16,0:15:30.45,Default,Asuka,0,0,0,##,Rabbits can hop around pretty fast here in Little Garden.
-Dialogue: 5,0:15:30.45,0:15:33.87,Default,Jin,0,0,0,,The rabbits are the servants \Nof the founder of the Little Garden.
+Dialogue: 5,0:15:27.16,0:15:30.45,Default,Asuka,0,0,0,##,Little Garden's rabbits are quite agile.
+Dialogue: 5,0:15:30.45,0:15:33.87,Default,Jin,0,0,0,,The rabbits are the servants \Nof the Little Garden's founder.
 Dialogue: 5,0:15:34.91,0:15:36.83,Default,Jin,0,0,0,,Anyway, come this way.
 Dialogue: 5,0:15:36.83,0:15:39.04,Default,Jin,0,0,0,###,I'll show you into the Little Garden.
 Dialogue: 5,0:15:52.38,0:15:53.52,Default,Asuka,0,0,0,,This is...
 Dialogue: 5,0:15:54.06,0:15:55.35,Default,You,0,0,0,,The Little Garden...
-Dialogue: 5,0:15:57.77,0:16:00.73,Default,You,0,0,0,,I thought we were entering a covered area,
+Dialogue: 5,0:15:57.77,0:16:00.73,Default,You,0,0,0,###,I thought we were entering a covered area, {going indoors? idk.}
 Dialogue: 5,0:16:00.73,0:16:01.98,Default,,0,0,0,,but I can see the sun.
-Dialogue: 5,0:16:01.98,0:16:06.40,Default,Jin,0,0,0,,The coverings over the Little Garden \Nare invisible from the inside.
+Dialogue: 5,0:16:01.98,0:16:06.40,Default,Jin,0,0,0,##,The coverings over the Little Garden \Nare invisible from the inside. {Coverings? Surely there's a better word.}
 Dialogue: 5,0:16:06.74,0:16:14.03,Default,Jin,0,0,0,,They were set up to protect races \Nthat cannot be directly exposed to the sun.
-Dialogue: 5,0:16:14.03,0:16:18.37,Default,Asuka,0,0,0,,So are there vampires living here or something?
+Dialogue: 5,0:16:14.03,0:16:18.37,Default,Asuka,0,0,0,##,Oh, does that mean there are \Nvampires living here or something?
 Dialogue: 5,0:16:18.37,0:16:20.08,Default,Jin,0,0,0,,Huh? Yes, there are.
 Dialogue: 5,0:16:20.50,0:16:21.46,Default,Asuka,0,0,0,,I see.
 Dialogue: 5,0:16:22.00,0:16:25.34,Default,Jin,0,0,0,,There are a wide variety of races living here.
 Dialogue: 5,0:16:25.34,0:16:29.71,Default,Jin,0,0,0,,Gods, demons, spirits, animal-human hybrids, \Nand humans themselves.
-Dialogue: 5,0:16:30.26,0:16:34.22,Default,Jin,0,0,0,,There are lots of agricultural districts \Nhere in the East Side,
+Dialogue: 5,0:16:30.26,0:16:34.22,Default,Jin,0,0,0,##,There are lots of agricultural districts \Nhere in the East Side,
 Dialogue: 5,0:16:34.56,0:16:37.10,Default,Jin,0,0,0,,so everything's quite peaceful.
 Dialogue: 5,0:16:38.10,0:16:41.23,Default,Jin,0,0,0,##,I'm sure you're still itching \Nto move around since you've just arrived.
 Dialogue: 5,0:16:41.23,0:16:45.61,Default,Jin,0,0,0,#,How about we grab a bite and go over the details? {a bite on its own is weird}
 Dialogue: 5,0:16:52.49,0:16:56.00,Default,BR,0,0,0,,{\i1}Come on. How far could he have gone?
 Dialogue: 5,0:16:56.00,0:16:59.24,Default,BR,0,0,0,##,{\i1}Some gods use this area as their game territory. {"certain" is a translationese, swapping it to some is probably better but idk}
-Dialogue: 5,0:16:59.75,0:17:03.25,Default,BR,0,0,0,##,{\i1}If he gets roped into playing one of their games... {could make this better I think}
+Dialogue: 5,0:16:59.75,0:17:03.25,Default,BR,0,0,0,,{\i1}If he gets roped into playing one of their games...
 Dialogue: 5,0:17:07.42,0:17:08.59,Default,BR,0,0,0,,{\i1}He couldn't have...
 Dialogue: 5,0:17:19.60,0:17:21.89,Default,Izayoi,0,0,0,,Oh? That you, Black Rabbit?
 Dialogue: 5,0:17:22.27,0:17:24.56,Default,Izayoi,0,0,0,,What's up with your hair?
@@ -336,7 +336,7 @@ Dialogue: 5,0:17:54.72,0:17:59.18,Default,W,0,0,0,,No... The trial isn't over ye
 Dialogue: 5,0:17:59.48,0:18:00.89,Default,BR,0,0,0,,A-A water god!
 Dialogue: 5,0:18:00.89,0:18:03.81,Default,BR,0,0,0,,H-How did you make him so mad?!
 Dialogue: 5,0:18:03.81,0:18:07.94,Default,Izayoi,0,0,0,##,The arrogant prick told me to pick a game, {could also use FFF}
-Dialogue: 5,0:18:07.94,0:18:10.78,Default,,0,0,0,#,so I told him to see if he could \Ngive me a run for my money. {Could reword a little maybe?}
+Dialogue: 5,0:18:07.94,0:18:10.78,Default,,0,0,0,#,so I told him to see if he could \Ngive me a run for my money. {Could reword a little maybe?} {Could just rewrite to be like "to see if he could take me in a fight" or somtehing}
 Dialogue: 5,0:18:11.07,0:18:12.65,Default,BR,0,0,0,,Izayoi{**-san}...
 Dialogue: 5,0:18:12.65,0:18:14.74,Default,W,0,0,0,,Don't be so conceited, human.
 Dialogue: 5,0:18:14.74,0:18:18.11,Default,W,0,0,0,,Do you think you can defeat me so easily?
@@ -399,7 +399,7 @@ Dialogue: 5,0:21:35.31,0:21:37.11,Default,Izayoi,0,0,0,,That so?
 Dialogue: 5,0:21:37.48,0:21:39.70,Default,Izayoi,0,0,0,,Mind if I ask you something \Nwhile you're in a good mood?
 Dialogue: 5,0:21:39.70,0:21:41.07,Default,BR,0,0,0,,Go ahead!
 Dialogue: 5,0:21:41.57,0:21:46.45,Default,Izayoi,0,0,0,,Black Rabbit, you've been hiding a major \Ndeal-breaker this whole time, haven't you?
-Dialogue: 5,0:21:47.79,0:21:49.20,Default,Izayoi,0,0,0,,Answer me.
+Dialogue: 5,0:21:47.79,0:21:49.20,Default,Izayoi,0,0,0,,Tell me.
 Dialogue: 5,0:21:49.20,0:21:52.95,Default,Izayoi,0,0,0,,Why did you need to call us here?
 Dialogue: 5,0:23:27.01,0:23:28.85,Default,Izayoi,0,0,0,,{\an8}What is a Little Garden aristocrat, anyway?
 Dialogue: 5,0:23:28.85,0:23:33.52,Default,BR,0,0,0,,{\an8}That title is held by the rabbits, \Nwho possess the great power of judging Gift Games.

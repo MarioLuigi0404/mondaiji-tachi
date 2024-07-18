@@ -144,7 +144,7 @@ subs {
                 forced(false)
             }
 
-            includeChapters(false)
+            includeChapters(true)
             attachments { include(false) }
         }
 
@@ -178,7 +178,7 @@ subs {
             }
         }
 
-        chapters(chapters.item()) { lang("eng") }
+        // chapters(chapters.item()) { lang("eng") }
 
         // Fonts handling
         skipUnusedFonts(true)

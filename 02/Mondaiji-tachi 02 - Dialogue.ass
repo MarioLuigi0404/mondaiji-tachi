@@ -17,8 +17,9 @@ Video File: ProblemChildren_EP02_!VID_Yousei-v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 17
-Video Position: 3499
+Scroll Position: 3
+Active Line: 29
+Video Position: 4471
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,10 +69,10 @@ Dialogue: 5,0:02:38.30,0:02:41.72,Default,,0,0,0,,{\an8}they must also register 
 Dialogue: 5,0:02:42.09,0:02:43.76,Default,Izayoi,0,0,0,,A formal name and banner?
 Dialogue: 5,0:02:43.76,0:02:45.68,Default,,0,0,0,,So a community's banner is like a country's flag?
 Dialogue: 5,0:02:45.89,0:02:49.31,Default,BR,0,0,0,,Yes. Many use it to mark their territory.
-Dialogue: 5,0:02:50.02,0:02:54.94,Default,BR,0,0,0,,{\i1}Up until a few years ago, our banner had flown proudly
-Dialogue: 5,0:02:54.94,0:02:57.32,Default,,0,0,0,,{\i1}all the way to the ends of the East Side.
+Dialogue: 5,0:02:50.02,0:02:54.94,Default,BR,0,0,0,,Up until a few years ago, our banner had flown proudly
+Dialogue: 5,0:02:54.94,0:02:57.32,Default,,0,0,0,,all the way to the ends of the East Side.
 Dialogue: 5,0:02:58.44,0:03:04.33,Default,BR,0,0,0,,However, one day we ran afoul of an enemy \Nwhich we should have avoided at all costs, and then...
-Dialogue: 5,0:03:06.45,0:03:09.99,Default,BR,0,0,0,,{\i1}In just one night, we were wiped out.
+Dialogue: 5,0:03:06.45,0:03:09.99,Default,BR,0,0,0,,In just one night, we were wiped out.
 Dialogue: 5,0:03:11.75,0:03:17.08,Default,Galdo,0,0,0,,{\i1}Basically, this guy is a leader in name only. \NA ghost from the past.
 Dialogue: 5,0:03:17.08,0:03:20.63,Default,Asuka,0,0,0,,But would it really be possible to destroy \Nan organization that large in a single night?
 Dialogue: 5,0:03:21.09,0:03:23.63,Default,Galdo,0,0,0,,There are some here for whom \Nthat would be child's play.
